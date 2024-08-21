@@ -13,7 +13,7 @@ When making this spreadsheet to display our data we needed three pieces of data 
 
 The CSV file titled "hospitalizations.csv" contains the data of the EDC Rave concerts and hospitalizations. Links where we gathered the data for the graphs from, which includes articles, statistics, and history of EDC Rave concerts will be uploaded soon.
 
-This projects involves knowing the fundamentals of basic JavaScript and HTML, but also being familiar with SVG and the d3.js library, which you can learn more about through these links provided through the course known as CS/INFO 3300: Data-Driven Web Applications, taught by Professor Jeff Rzeszotarski, who severs within the Cornell CIS Bowers Department.
+This projects involves knowing the fundamentals of basic JavaScript and HTML, but also being familiar with SVG and the d3.js library, which you can learn more about through these links provided through the course known as CS/INFO 3300: Data-Driven Web Applications, taught by Professor Jeff Rzeszotarski, who serves within the Cornell CIS Bowers Department.
 
 **JavaScript reference websites:**
 
