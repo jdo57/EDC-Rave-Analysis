@@ -15,7 +15,7 @@ A useful [Stack Overflow question] (http://stackoverflow.com/questions/1646698/w
 
 **SVG reference:**
 
-The [<path>] (http://www.w3.org/TR/SVG/paths.html) element
+The <path> (http://www.w3.org/TR/SVG/paths.html) element
 
 [Current SVG Specification] (https://www.w3.org/TR/2018/CR-SVG2-20181004/)
 
