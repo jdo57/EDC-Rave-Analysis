@@ -3,6 +3,8 @@ In collaboration with Nixon Zuniga, Kayla Sprayberry, and Nancy Duong.
 
 Analysis through graphs using JavaScript, HTML, and the d3.js library to display the data we found based on the correlation between EDC Rave concerts with hospitalizations.
 
+The following is a summary of our project from our report.
+
 "For this project we decided to create visualizations, specifically graphs, for the Electric Daisy Carnival Las Vegas which is one of the largest EDM festivals in the world, of which it is expected that many attendees will consume illegal substances. Our graphs will explore how many overdoses have occurred in its 25 years–from what substances, and if the number has decreased since EDCLV started providing education on drug abuse and administration of narcan.
 We want our viewers to see the dramatic ratio of hospitalization to attendees, specifically the increase in this ratio from 2010-2020. This drove our interests to illustrate this data into graphs. We utilized both a scatter plot and a bar graph to show this information, where our scatter plot demonstrated our ratio of hospitalizations per attendee and our bar graph shows the increase of attendees at this festival and predicted some data for 2024 based on the previous year, and it is quite shocking to see the results behind the information we found online regarding this festival
 
