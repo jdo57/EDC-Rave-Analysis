@@ -1,11 +1,9 @@
 # EDC-Rave-Analysis
 Analysis through graphs using JavaScript, HTML, and the d3.js library to display the data we found based on the correlation between EDC Rave concerts with hospitalizations.
 
-The CSV file titled "hospitalizations.csv" contains links where we gathered the data for the graphs from, which includes articles, statistics, and history of EDC Rave concerts.
+The CSV file titled "hospitalizations.csv" contains the data of the EDC Rave concerts and hospitalizations. Links where we gathered the data for the graphs from, which includes articles, statistics, and history of EDC Rave concerts will be uploaded soon.
 
-This projects involves knowing the fundamentals of basic JavaScript and HTML, but also being familiar with the d3.js library and SVG which you can learn more about through these links provided through the course known as Data-Driven Web Applications (CS/INFO 3300) taught by Professor Jeff Rzeszotarski, who severs within the Cornell CIS Bowers Department.
-
-This projects involved knowing the fundamentals of basic JavaScript and HTML, but also being familiar with the d3.js library and SVG which you can learn more about through these links provided through the course known as Data-Driven Web Applications (CS/INFO 3300) taught by Professor Jeff Rzeszotarski, who severs within the Cornell CIS Bowers Department.
+This projects involves knowing the fundamentals of basic JavaScript and HTML, but also being familiar with SVG and the d3.js library and, which you can learn more about through these links provided through the course known as CS/INFO 3300: Data-Driven Web Applications, taught by Professor Jeff Rzeszotarski, who severs within the Cornell CIS Bowers Department.
 
 **JavaScript reference websites:**
 
