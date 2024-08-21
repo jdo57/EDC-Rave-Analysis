@@ -1,7 +1,7 @@
 # EDC-Rave-Analysis
 In collaboration with Nixon Zuniga, Kayla Sprayberry, and Nancy Duong.
 
-Analysis through graphs using JavaScript, HTML, and the d3.js library to display the data we found based on the correlation between EDC Rave concerts with hospitalizations.
+Analysis through graphs using JavaScript, HTML, and the d3.js library to display the data we found based on the correlation between EDC Rave concerts and hospitalizations.
 
 The following is a summary of our project from our report.
 
