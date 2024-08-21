@@ -8,25 +8,16 @@ This projects involved knowing the fundamentals of basic JavaScript and HTML, bu
 **JavaScript reference websites:**
 
 [Mozilla Developers Network] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
-
 A useful [Stack Overflow question] (http://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript) about object creation in JavaScript
-
 [JavaScript Object Notation (JSON) syntax] (http://www.json.org/)
-
 [CSS Selectors] (https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 
 **SVG reference:**
 
 The path (http://www.w3.org/TR/SVG/paths.html) element
-
 [Current SVG Specification] (https://www.w3.org/TR/2018/CR-SVG2-20181004/)
-
 [Mozilla SVG Documentation] (https://developer.mozilla.org/en-US/docs/Web/SVG)
-
 https://flaviocopes.com/svg/
-
 https://alignedleft.com/tutorials/d3/an-svg-primer
-
 http://tutorials.jenkov.com/svg/svg-transformation.html
-
 https://www.sarasoueidan.com/blog/svg-transformations/
